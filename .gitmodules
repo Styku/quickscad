@@ -1,6 +1,6 @@
-[submodule "webscad-frontend"]
+[submodule "quickscad-frontend"]
 	path = webscad-frontend
-	url = https://github.com/Styku/webscad-frontend.git
-[submodule "webscad-backend"]
+	url = https://github.com/Styku/quickscad-frontend.git
+[submodule "quickscad-backend"]
 	path = webscad-backend
-	url = https://github.com/Styku/webscad-backend.git
+	url = https://github.com/Styku/quickscad-backend.git
