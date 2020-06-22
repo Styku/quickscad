@@ -1,8 +1,7 @@
 # What's that?
+Demo is hosted here, so feel free to check it out: [http://quickscad.styczen.site](http://quickscad.styczen.site)
 ## TL;DR version
 WebSCAD attempts to provide web interface for parametrizing OpenSCAD scripts and generating STLs, gcode and renders from them.
-
-Demo of what it can do so far is hosted here, so feel free to check it out: [http://3dprint.styczen.site](http://3dprint.styczen.site)
 
 ## Long version
 WebSCAD parses OpenSCAD scripts and based on the code and comments, dynamically builds an UI for parametrizing them. A doxygen-like syntax is used for describing parameters in the script. Comments may contain information about:
